@@ -1,3 +1,9 @@
+# Roshan - Screening Test Solutions
+
+This repository contains JavaScript solutions for the 4 programming problems provided by TANDEMLOOP TECHNOLOGIES PRIVATE LIMITED as part of the Full Stack Developer screening test.
+
+---
+
 # Problem-1.js
 
 Title: Calculator using Class
@@ -13,9 +19,10 @@ Description: Create a small calculator which performs operations such as Additio
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd Roshan
-2. Command to run the Problem-1.js:
+   git clone https://github.com/roshangit777/Roshan-Tandemloop-Screening-Test.git
+2. Change directory:
+   cd Roshan-Tandemloop-Screening-Test
+3. Command to run the Problem-1.js:
    node Problem-1.js
 
 ## Required inputs for Problem-1
@@ -52,9 +59,10 @@ Output: (examples)
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd Roshan
-2. Command to run the Problem-2.js:
+   git clone https://github.com/roshangit777/Roshan-Tandemloop-Screening-Test.git
+2. Change directory:
+   cd Roshan-Tandemloop-Screening-Test
+3. Command to run the Problem-2.js:
    node Problem-2.js
 
 ## Required inputs for Problem-2
@@ -90,9 +98,10 @@ Output: (examples)
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd Roshan
-2. Command to run the Problem-3.js:
+   git clone https://github.com/roshangit777/Roshan-Tandemloop-Screening-Test.git
+2. Change directory:
+   cd Roshan-Tandemloop-Screening-Test
+3. Command to run the Problem-3.js:
    node Problem-3.js
 
 ## Required inputs for Problem-3
@@ -126,9 +135,10 @@ Output: {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd Roshan
-2. Command to run the Problem-4.js:
+   git clone https://github.com/roshangit777/Roshan-Tandemloop-Screening-Test.git
+2. Change directory:
+   cd Roshan-Tandemloop-Screening-Test
+3. Command to run the Problem-4.js:
    node Problem-4.js
 
 ## Example for Problem-4
